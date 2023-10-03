@@ -1,18 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.2e870490.css",
-    "main.js": "/static/js/main.b860fe10.js",
+    "main.js": "/static/js/main.7e47799f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/thirdProject.png": "/static/media/thirdProject.08d1d38e884e40bd1adc.png",
+    "static/media/firstProject.png": "/static/media/firstProject.9521349be25b3f579cb5.png",
+    "static/media/secProject.png": "/static/media/secProject.5cb18a6b21e7b0b371ac.png",
+    "static/media/fourthProject.png": "/static/media/fourthProject.08723e78c5ed284c738b.png",
     "static/media/Mypic.jpg": "/static/media/Mypic.9e0de391999d83f20e17.jpg",
     "static/media/Shivansh_Soni_Resume.pdf": "/static/media/Shivansh_Soni_Resume.a15e0686dacfb7f8faf6.pdf",
     "static/media/logo.png": "/static/media/logo.ee6e5e2e6a22b391ef1d.png",
     "index.html": "/index.html",
     "main.2e870490.css.map": "/static/css/main.2e870490.css.map",
-    "main.b860fe10.js.map": "/static/js/main.b860fe10.js.map",
+    "main.7e47799f.js.map": "/static/js/main.7e47799f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e870490.css",
-    "static/js/main.b860fe10.js"
+    "static/js/main.7e47799f.js"
   ]
 }
